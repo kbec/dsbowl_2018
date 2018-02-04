@@ -1,0 +1,9 @@
+# ignore data folder
+data/
+#   data/stage1_train contains extracted contents of stage1_train.zip (670 subdirectories), plus stage1_train_labels.csv
+#   data/stage1_test contains extracted contents of stage1_test.zip (65 subdirectories)
+#   https://www.kaggle.com/c/data-science-bowl-2018/data
+
+# ignore sample submission file
+stage1_sample_submission.csv
+#   https://www.kaggle.com/c/data-science-bowl-2018/data
